@@ -5,7 +5,7 @@ For the English version, see: [English README](link-here)
 
 <!-- Header -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-username/main/assets/logo.png" alt="لوگوی Analytura" width="120" />
+  <img src="https://raw.githubusercontent.com/analytura/analytura/main/assets/logo.jpg" alt="Analytura Logo" width="120" />
 </p>
 
 <h1 align="center">Analytura</h1>
