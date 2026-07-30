@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Analytura
 
-<!--
-**analytura/analytura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I help businesses automate reporting and turn data into decisions.
 
-Here are some ideas to get you started:
+## What I Do
+- Excel Automation
+- Data Cleaning & Wrangling
+- Interactive Dashboards
+- Small Data Analysis Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools & Technologies
+- Python
+- Pandas
+- SQL
+- Excel
+- Power BI
+- Looker Studio
+- Streamlit
+- Dash
+
+## Who I Work With
+- Small businesses
+- EPC companies
+- Traditional businesses
+- Finance teams
+- Retail stores
+- Manufacturing companies
+
+## About This Profile
+This profile showcases my work in data reporting, automation, and analytics solutions built for real business needs.
+
+## Contact
+- LinkedIn: [Add link here]
+- Email: [Add email here]
+- Website: [Add link here]
+
+## Persian README
+For the Persian version, see: [README فارسی](link-here)
+
+---
+**Analytura**  
+Creative. Professional. Reliable.
