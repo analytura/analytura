@@ -1,5 +1,5 @@
 ## Persian README
-For the Persian version, see: [README فارسی](link-here)
+For the Persian version, see: [Persian README](link-here)
 <!-- Header -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/your-username/your-username/main/assets/logo.png" alt="Analytura Logo" width="120" />
