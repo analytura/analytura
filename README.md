@@ -1,3 +1,6 @@
+## Persian README
+For the Persian version, see: [README فارسی](link-here)
+
 # Hi, I'm Analytura
 
 I help businesses automate reporting and turn data into decisions.
@@ -33,9 +36,6 @@ This profile showcases my work in data reporting, automation, and analytics solu
 - LinkedIn: [Add link here]
 - Email: [Add email here]
 - Website: [Add link here]
-
-## Persian README
-For the Persian version, see: [README فارسی](link-here)
 
 ---
 **Analytura**  
