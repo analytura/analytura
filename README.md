@@ -35,12 +35,14 @@ I help businesses automate reporting, clean messy data, and build practical dash
 
 ### Tools I Use
 <p>
-  <img src="https://skillicons.dev/icons?i=python,Pandas,postgresql,sqlite,Excel" />
+  <img src="https://skillicons.dev/icons?i=python,postgresql,sqlite" />
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat-square&logo=looker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/Dash-008DE4?style=flat-square&logo=plotly&logoColor=white" />
 </p>
