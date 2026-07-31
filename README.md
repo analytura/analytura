@@ -35,7 +35,7 @@ I help businesses automate reporting, clean messy data, and build practical dash
 
 ### Tools I Use
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pandas,postgresql,sqlite,excel" />
+  <img src="https://skillicons.dev/icons?i=python,Pandas,postgresql,sqlite,Excel" />
 </p>
 
 <p>
